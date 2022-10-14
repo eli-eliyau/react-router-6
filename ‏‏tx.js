@@ -1,3 +1,6 @@
+npm install react-router-dom@6
+
+
 import { Route, Link } from "react-router-dom";
 import { Redirect, Switch } from "react-router-dom/cjs/react-router-dom.min";
 import MainHeader from "./componets/MainHeader";
